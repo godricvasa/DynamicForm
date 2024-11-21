@@ -1,0 +1,23 @@
+{
+  "student": [
+    { "label": "firstName", "data_type": "text" },
+    { "label": "lastName", "data_type": "text" },
+    { "label": "rollNumber", "data_type": "number" }
+  ],
+  "employee": [
+    { "label": "firstName", "data_type": "text" },
+    { "label": "lastName", "data_type": "text" },
+    { "label": "employeeId", "data_type": "number" },
+    { "label": "salary", "data_type": "number" }
+  ],
+  "department": [
+    { "label": "departmentName", "data_type": "text" },
+    { "label": "departmentCode", "data_type": "number" }
+  ],
+  "address": [
+    { "label": "houseNumber", "data_type": "number" },
+    { "label": "city", "data_type": "text" },
+    { "label": "ZipCode", "data_type": "text" }
+  ]
+
+}
